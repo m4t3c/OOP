@@ -1,6 +1,5 @@
-package Exercises.Warmup;
+package exercises.warmup;
 
-import java.util.Random;
 import java.util.random.RandomGenerator;
 import java.util.Scanner;
 

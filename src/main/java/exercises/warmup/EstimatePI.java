@@ -1,4 +1,4 @@
-package Exercises.Warmup;
+package exercises.warmup;
 
 /*
      It is possible to get an estimate of the mathematical constant π by using a random process.

@@ -1,4 +1,4 @@
-package Exercises.Arrays;
+package exercises.Arrays;
 
 /*
     We'll say that a value is "everywhere" in an array if for every pair of adjacent elements in the array,

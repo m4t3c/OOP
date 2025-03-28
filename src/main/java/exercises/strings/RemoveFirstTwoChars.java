@@ -1,4 +1,4 @@
-package Exercises.Strings;
+package exercises.strings;
 
 /*
 Write two methods accepting a string and returning the same string without the first two characters.
