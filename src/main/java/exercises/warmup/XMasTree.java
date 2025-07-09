@@ -1,4 +1,4 @@
-package Exercises.Warmup;
+package exercises.warmup;
 
 /*
      Print to screen the little story below. Remember: strings can be multi-line!

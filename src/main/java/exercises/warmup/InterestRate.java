@@ -1,4 +1,4 @@
-package Exercises.Warmup;
+package exercises.warmup;
 
 /*
     Write a program that prints the balance of an account after the first, second, and third year.
