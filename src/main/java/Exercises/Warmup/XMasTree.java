@@ -1,8 +1,8 @@
 package Exercises.Warmup;
 
 /*
-    Print to screen the little story below. Remember: strings can be multi-line!
- */
+     Print to screen the little story below. Remember: strings can be multi-line!
+*/
 
 public class XMasTree {
     public static void main(String[] args) {
@@ -37,8 +37,8 @@ public class XMasTree {
                 Just because you aint scared of monster dont mean he wont eat ya.
                 Some times eats parents too, forgot to say that earlier.
                 
-                                          Credits: Krogg <krogg.no.to.spam@inspace.net>
-                """;
-        System.out.printf(story);
+                                          Credits: Krogg <krogg.no.to.spam@inspace.net>""";
+
+        System.out.println(story);
     }
 }
