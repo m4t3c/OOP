@@ -1,4 +1,4 @@
-package Exercises.Arrays;
+package exercises.arrays;
 
 /*
     Write a method accepting two double[] returning a different double[] representing the first array divided by the second array.

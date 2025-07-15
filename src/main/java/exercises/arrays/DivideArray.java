@@ -1,6 +1,4 @@
-package Exercises.Arrays;
-
-import java.util.Arrays;
+package exercises.arrays;
 
 /*
     Write a method accepting a double[] and a double value returning a different double[] representing the original double[] divided by factor.

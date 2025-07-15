@@ -1,4 +1,4 @@
-package Exercises.Arrays;
+package exercises.arrays;
 
 /*
     Write a method accepting an int and returning the sequence of the digits as an int[].
@@ -16,14 +16,14 @@ package Exercises.Arrays;
 */
 
 public class Splitter {
-    public static int[] splitter(int input){
+    public static int[] splitter(int input) {
         String stringNumber = Integer.toString(input);
-        int lenght = stringNumber.length();
-        int[] digits = new int[lenght];
-        for (int i = 0; i < lenght; i++) {
+        int length = stringNumber.length();
+        int[] digits = new int[length];
+
+        for (int i = 0; i < length; i++) {
             digits[i] = Character.getNumericValue(stringNumber.charAt(i));
         }
-
         return digits;
     }
 }

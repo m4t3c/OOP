@@ -1,4 +1,4 @@
-package Exercises.Arrays;
+package exercises.arrays;
 
 /*
     Write a method accepting an int and returning a long[] composed of the first n numbers of the Fibonacci series.
