@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20f62c1c-e591-4858-94bf-db4db63f711f" name="Changes" comment="collections">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/CheckLicencePlate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/CheckString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/FilterItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/FilterLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/ReadLineCompleteDelegation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/ReadLineNoDelegation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/ReadLinePartialDelegation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/RetryWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/english-words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/james-joyce-ulysses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/CheckIntervalBetweenDatesAltTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/CheckLicencePlateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/CheckStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/FilterItemsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/FilterListsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/ReadLineCompleteDelegationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/ReadLineNoDelegationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/ReadLinePartialDelegationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/exceptions/CheckIntervalBetweenDatesAlt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/CheckIntervalBetweenDatesAlt.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;m4t3c&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/m4t3c/OOP.git&quot;,
+    &quot;accountId&quot;: &quot;bb201c57-86e9-478c-945e-7cfca6245483&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="301Ap5zEQZukHe9LSdchFJjsdto" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AppendBoundedTest.executor": "Run",
+    "JUnit.AppendTest.executor": "Run",
+    "JUnit.ArrayPolyTest.executor": "Run",
+    "JUnit.ArrayPolyTest.testEquals.executor": "Run",
+    "JUnit.BankAccountEasyTest.executor": "Run",
+    "JUnit.BankAccountProTest.executor": "Run",
+    "JUnit.BookTest.executor": "Run",
+    "JUnit.CheckIntervalBetweenDatesAltTest.executor": "Run",
+    "JUnit.CheckIntervalBetweenDatesTest.executor": "Run",
+    "JUnit.CheckLicencePlateTest.executor": "Run",
+    "JUnit.CheckStringTest.executor": "Debug",
+    "JUnit.CircleTest.executor": "Run",
+    "JUnit.CollatzSequenceTest.executor": "Run",
+    "JUnit.DivideTest.executor": "Run",
+    "JUnit.DivisionSquaredTest.executor": "Debug",
+    "JUnit.DivisionTest.divisionTest.executor": "Debug",
+    "JUnit.DivisionTest.executor": "Run",
+    "JUnit.DownSizeTest.executor": "Run",
+    "JUnit.DvdTest.executor": "Run",
+    "JUnit.FilterItemsTest.executor": "Run",
+    "JUnit.FilterListsTest.executor": "Run",
+    "JUnit.IntersectionTest.executor": "Run",
+    "JUnit.InvertMapTest.executor": "Run",
+    "JUnit.IterableToStringTest.executor": "Run",
+    "JUnit.LibraryTest.executor": "Run",
+    "JUnit.ListPolyTest.executor": "Run",
+    "JUnit.LookAndSayTest.executor": "Run",
+    "JUnit.MorseCodeTest.executor": "Run",
+    "JUnit.PersonTest.executor": "Run",
+    "JUnit.PhoneBookArrayTest.executor": "Run",
+    "JUnit.PhoneBookListTest.executor": "Run",
+    "JUnit.PhoneBookTestBase.executor": "Run",
+    "JUnit.PolyTestBase.executor": "Run",
+    "JUnit.ReadLineCompleteDelegationTest.executor": "Run",
+    "JUnit.ReadLineNoDelegationTest.executor": "Run",
+    "JUnit.ReadLinePartialDelegationTest.executor": "Run",
+    "JUnit.RectangleTest.executor": "Run",
+    "JUnit.RecurringCharsTest.executor": "Run",
+    "JUnit.RemoveDuplicatesTest.executor": "Run",
+    "JUnit.RentTest.executor": "Run",
+    "JUnit.ReverseTest.executor": "Debug",
+    "JUnit.ReverserAnonymousTest.executor": "Run",
+    "JUnit.RomanToDecimalTest.executor": "Run",
+    "JUnit.SpeedTestTest.executor": "Run",
+    "JUnit.UnionTest.executor": "Run",
+    "JUnit.ValuesKeysTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Matteo/Desktop/UNIVERSITÀ/Progetti/OOP/src/main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main" />
+      <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\exceptions" />
+      <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\warmup" />
+      <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\arrays" />
+      <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\strings" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="exercises.collections" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercises.exceptions" />
+      <recent name="exercises.collections" />
+      <recent name="exercises.collections.mycollections" />
+      <recent name="exercises.oop.library" />
+      <recent name="exercises.oop.polynomials" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exercises.oop.polynomials" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20f62c1c-e591-4858-94bf-db4db63f711f" name="Changes" comment="" />
+      <created>1752784884913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752784884913</updated>
+    </task>
+    <task id="LOCAL-00001" summary="oop">
+      <option name="closed" value="true" />
+      <created>1752931171578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752931171578</updated>
+    </task>
+    <task id="LOCAL-00002" summary="collections">
+      <option name="closed" value="true" />
+      <created>1753007307385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753007307385</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oop" />
+    <MESSAGE value="collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="collections" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/exercises/exceptions/DivisionTest.java</url>
+          <line>10</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/exercises/exceptions/DivisionSquaredTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
