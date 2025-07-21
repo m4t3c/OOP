@@ -4,26 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20f62c1c-e591-4858-94bf-db4db63f711f" name="Changes" comment="collections">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/CheckLicencePlate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/CheckString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/FilterItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/FilterLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/ReadLineCompleteDelegation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/ReadLineNoDelegation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/ReadLinePartialDelegation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/RetryWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/english-words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/james-joyce-ulysses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/CheckIntervalBetweenDatesAltTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/CheckLicencePlateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/CheckStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/FilterItemsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/FilterListsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/ReadLineCompleteDelegationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/ReadLineNoDelegationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/exceptions/ReadLinePartialDelegationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/exceptions/CheckIntervalBetweenDatesAlt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/exceptions/CheckIntervalBetweenDatesAlt.java" afterDir="false" />
+    <list default="true" id="20f62c1c-e591-4858-94bf-db4db63f711f" name="Changes" comment="exceptions">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/JustPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/JustPrintParametrized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/NoTeen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/OneTen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/PayMore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/Append.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/AppendBounded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/CountOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/IterableToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/MapToPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/Measure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/PairSameType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/PairUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/JustPrintParametrizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/JustPrintTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/NoTeenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/OneTenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/PayMoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/AppendBoundedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/AppendTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/BinarySearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/CountOccurrencesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/DivideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/IterableToStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/MapToPairsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/MeasureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/MinMaxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/PairSameTypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/PairTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/PairUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +52,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -64,12 +82,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.RetryWrite.executor": "Run",
     "JUnit.AppendBoundedTest.executor": "Run",
     "JUnit.AppendTest.executor": "Run",
     "JUnit.ArrayPolyTest.executor": "Run",
     "JUnit.ArrayPolyTest.testEquals.executor": "Run",
     "JUnit.BankAccountEasyTest.executor": "Run",
     "JUnit.BankAccountProTest.executor": "Run",
+    "JUnit.BinarySearchTest.executor": "Run",
     "JUnit.BookTest.executor": "Run",
     "JUnit.CheckIntervalBetweenDatesAltTest.executor": "Run",
     "JUnit.CheckIntervalBetweenDatesTest.executor": "Run",
@@ -77,6 +97,7 @@
     "JUnit.CheckStringTest.executor": "Debug",
     "JUnit.CircleTest.executor": "Run",
     "JUnit.CollatzSequenceTest.executor": "Run",
+    "JUnit.CountOccurrencesTest.executor": "Run",
     "JUnit.DivideTest.executor": "Run",
     "JUnit.DivisionSquaredTest.executor": "Debug",
     "JUnit.DivisionTest.divisionTest.executor": "Debug",
@@ -88,10 +109,20 @@
     "JUnit.IntersectionTest.executor": "Run",
     "JUnit.InvertMapTest.executor": "Run",
     "JUnit.IterableToStringTest.executor": "Run",
+    "JUnit.JustPrintParametrizedTest.executor": "Run",
+    "JUnit.JustPrintTest.executor": "Run",
     "JUnit.LibraryTest.executor": "Run",
     "JUnit.ListPolyTest.executor": "Run",
     "JUnit.LookAndSayTest.executor": "Run",
+    "JUnit.MapToPairsTest.executor": "Run",
+    "JUnit.MeasureTest.executor": "Run",
+    "JUnit.MinMaxTest.executor": "Run",
     "JUnit.MorseCodeTest.executor": "Run",
+    "JUnit.NoTeenTest.executor": "Run",
+    "JUnit.PairSameTypeTest.executor": "Run",
+    "JUnit.PairTest.executor": "Run",
+    "JUnit.PairUtilTest.executor": "Run",
+    "JUnit.PayMoreTest.executor": "Run",
     "JUnit.PersonTest.executor": "Run",
     "JUnit.PhoneBookArrayTest.executor": "Run",
     "JUnit.PhoneBookListTest.executor": "Run",
@@ -118,16 +149,16 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Matteo/Desktop/UNIVERSITÀ/Progetti/OOP/src/main"
+    "last_opened_file_path": "C:/Users/Matteo/Desktop/UNIVERSITÀ/Progetti/OOP/src/main/java/exercises/functional"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\functional" />
+      <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\generics" />
       <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main" />
       <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\exceptions" />
       <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\warmup" />
-      <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\arrays" />
-      <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\strings" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -136,11 +167,11 @@
       <recent name="exercises.collections" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercises.functional" />
+      <recent name="exercises.generics" />
       <recent name="exercises.exceptions" />
       <recent name="exercises.collections" />
       <recent name="exercises.collections.mycollections" />
-      <recent name="exercises.oop.library" />
-      <recent name="exercises.oop.polynomials" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="exercises.oop.polynomials" />
@@ -170,13 +201,22 @@
       <option name="project" value="LOCAL" />
       <updated>1753007307385</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exceptions">
+      <option name="closed" value="true" />
+      <created>1753021995086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753021995086</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="oop" />
     <MESSAGE value="collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="collections" />
+    <MESSAGE value="exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="exceptions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
