@@ -4,44 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20f62c1c-e591-4858-94bf-db4db63f711f" name="Changes" comment="exceptions">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/JustPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/JustPrintParametrized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/NoTeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/OneTen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/PayMore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/Append.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/AppendBounded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/CountOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/Divide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/IterableToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/MapToPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/Measure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/PairSameType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/PairUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/generics/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/JustPrintParametrizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/JustPrintTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/NoTeenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/OneTenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/PayMoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/AppendBoundedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/AppendTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/BinarySearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/CountOccurrencesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/DivideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/IterableToStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/MapToPairsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/MeasureTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/MinMaxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/PairSameTypeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/PairTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/generics/PairUtilTest.java" afterDir="false" />
+    <list default="true" id="20f62c1c-e591-4858-94bf-db4db63f711f" name="Changes" comment="generics">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/AllPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/NoYY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/NoYYZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/PayOnAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/SquareFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/ToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/TwoTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/AllPalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/NoYYTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/NoYYZTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/PayOnAverageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/PhoneBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/SquareFiveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/TwoTwoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/WordsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/functional/OneTenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/OneTenTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,12 +67,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.RetryWrite.executor": "Run",
+    "JUnit.AllPalindromeTest.executor": "Run",
     "JUnit.AppendBoundedTest.executor": "Run",
     "JUnit.AppendTest.executor": "Run",
     "JUnit.ArrayPolyTest.executor": "Run",
     "JUnit.ArrayPolyTest.testEquals.executor": "Run",
     "JUnit.BankAccountEasyTest.executor": "Run",
     "JUnit.BankAccountProTest.executor": "Run",
+    "JUnit.BankAccountTest.executor": "Run",
     "JUnit.BinarySearchTest.executor": "Run",
     "JUnit.BookTest.executor": "Run",
     "JUnit.CheckIntervalBetweenDatesAltTest.executor": "Run",
@@ -119,13 +105,18 @@
     "JUnit.MinMaxTest.executor": "Run",
     "JUnit.MorseCodeTest.executor": "Run",
     "JUnit.NoTeenTest.executor": "Run",
+    "JUnit.NoYYTest.executor": "Run",
+    "JUnit.NoYYZTest.executor": "Run",
+    "JUnit.OneTenTest.executor": "Run",
     "JUnit.PairSameTypeTest.executor": "Run",
     "JUnit.PairTest.executor": "Run",
     "JUnit.PairUtilTest.executor": "Run",
     "JUnit.PayMoreTest.executor": "Run",
+    "JUnit.PayOnAverageTest.executor": "Run",
     "JUnit.PersonTest.executor": "Run",
     "JUnit.PhoneBookArrayTest.executor": "Run",
     "JUnit.PhoneBookListTest.executor": "Run",
+    "JUnit.PhoneBookTest.executor": "Run",
     "JUnit.PhoneBookTestBase.executor": "Run",
     "JUnit.PolyTestBase.executor": "Run",
     "JUnit.ReadLineCompleteDelegationTest.executor": "Run",
@@ -139,8 +130,11 @@
     "JUnit.ReverserAnonymousTest.executor": "Run",
     "JUnit.RomanToDecimalTest.executor": "Run",
     "JUnit.SpeedTestTest.executor": "Run",
+    "JUnit.SquareFiveTest.executor": "Run",
+    "JUnit.TwoTwoTest.executor": "Run",
     "JUnit.UnionTest.executor": "Run",
     "JUnit.ValuesKeysTest.executor": "Run",
+    "JUnit.WordsTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -209,14 +203,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753021995086</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="generics">
+      <option name="closed" value="true" />
+      <created>1753112763393</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753112763393</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="oop" />
     <MESSAGE value="collections" />
     <MESSAGE value="exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="exceptions" />
+    <MESSAGE value="generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="generics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
