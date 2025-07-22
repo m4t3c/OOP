@@ -1,9 +1,6 @@
 package exercises.oop.library;
 
-import com.sun.source.tree.BreakTree;
-import exercises.oop.library.Person;
 
-import java.sql.Time;
 import java.time.LocalDate;
 import java.util.Objects;
 

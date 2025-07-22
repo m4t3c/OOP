@@ -89,6 +89,9 @@ public class RationalNumber {
 
     @Override
     public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
         if (o == null || getClass() != o.getClass()) return false;
         RationalNumber that = (RationalNumber) o;
         return numerator == that.numerator && denominator == that.denominator;

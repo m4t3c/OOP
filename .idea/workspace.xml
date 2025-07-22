@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20f62c1c-e591-4858-94bf-db4db63f711f" name="Changes" comment="functional">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/threads/DayChangeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/threads/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/threads/ScheduledExecution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/threads/StartStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/threads/ThreadPoolExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="20f62c1c-e591-4858-94bf-db4db63f711f" name="Changes" comment="last">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/collections/ProjectManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/collections/WordAfterWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/collections/WordFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/collections/SortAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/collections/SortAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/collections/todo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/oop/basic/RationalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/oop/basic/RationalNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/oop/library/Rent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/oop/library/Rent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +133,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Matteo/Desktop/UNIVERSITÀ/Progetti/OOP/src/main/java/exercises/threads"
+    "last_opened_file_path": "C:/Users/Matteo/Desktop/UNIVERSITÀ/Progetti/OOP/src/main/java/exercises/collections"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -208,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753173070112</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="last">
+      <option name="closed" value="true" />
+      <created>1753204520240</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753204520240</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -217,7 +226,8 @@
     <MESSAGE value="exceptions" />
     <MESSAGE value="generics" />
     <MESSAGE value="functional" />
-    <option name="LAST_COMMIT_MESSAGE" value="functional" />
+    <MESSAGE value="last" />
+    <option name="LAST_COMMIT_MESSAGE" value="last" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
