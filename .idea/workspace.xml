@@ -4,28 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20f62c1c-e591-4858-94bf-db4db63f711f" name="Changes" comment="generics">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/AllPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/NoYY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/NoYYZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/PayOnAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/SquareFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/ToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/TwoTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/functional/Words.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/AllPalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/BankAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/NoYYTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/NoYYZTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/PayOnAverageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/PhoneBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/SquareFiveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/TwoTwoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/WordsTest.java" afterDir="false" />
+    <list default="true" id="20f62c1c-e591-4858-94bf-db4db63f711f" name="Changes" comment="functional">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/threads/DayChangeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/threads/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/threads/ScheduledExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/threads/StartStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/threads/ThreadPoolExecutor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/exercises/functional/OneTenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercises/functional/OneTenTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,7 +51,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DayChangeCheck.executor": "Run",
     "Application.RetryWrite.executor": "Run",
+    "Application.ScheduledExecution.executor": "Run",
+    "Application.StartStop.executor": "Run",
+    "Application.ThreadPoolExecutor.executor": "Run",
     "JUnit.AllPalindromeTest.executor": "Run",
     "JUnit.AppendBoundedTest.executor": "Run",
     "JUnit.AppendTest.executor": "Run",
@@ -143,16 +132,16 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Matteo/Desktop/UNIVERSITÀ/Progetti/OOP/src/main/java/exercises/functional"
+    "last_opened_file_path": "C:/Users/Matteo/Desktop/UNIVERSITÀ/Progetti/OOP/src/main/java/exercises/threads"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\threads" />
       <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\functional" />
       <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\generics" />
       <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main" />
       <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\exceptions" />
-      <recent name="C:\Users\Matteo\Desktop\UNIVERSITÀ\Progetti\OOP\src\main\java\exercises\warmup" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -161,11 +150,11 @@
       <recent name="exercises.collections" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercises.threads" />
       <recent name="exercises.functional" />
       <recent name="exercises.generics" />
       <recent name="exercises.exceptions" />
       <recent name="exercises.collections" />
-      <recent name="exercises.collections.mycollections" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="exercises.oop.polynomials" />
@@ -211,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753112763393</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="functional">
+      <option name="closed" value="true" />
+      <created>1753173070112</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753173070112</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -219,7 +216,8 @@
     <MESSAGE value="collections" />
     <MESSAGE value="exceptions" />
     <MESSAGE value="generics" />
-    <option name="LAST_COMMIT_MESSAGE" value="generics" />
+    <MESSAGE value="functional" />
+    <option name="LAST_COMMIT_MESSAGE" value="functional" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
